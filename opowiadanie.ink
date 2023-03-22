@@ -45,6 +45,10 @@ Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
 -> END
 
 === szpital ===
+Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąść na łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
+Zamknął oczy, lecz głos, który usłyszał kazał mu je otworzyć ponownie.  
+
+
 
 
 -> END
