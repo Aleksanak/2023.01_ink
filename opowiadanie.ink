@@ -42,9 +42,27 @@ Na rozmowach i wspomnieniach zleciało im kilka dni. Przez ten czas zdrowie Jame
 Pewnego dnia postanowili opuścić jaskinię. Brakowało im już prowiantu.
 Po dwóch kwadransach poszukiwań znalezli opuszczony szpital. Weszli do niego i po kilku minutach oględziń, stwierdzili, że mogą tu zamieszkać.
 Pszeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
--> END
 
 === szpital ===
+Chłopak otworzył oczy, głowa pulsowała mu bólem. Spróbował powoli usiąść na łóżku. Rozejrzał się. Usłyszał kroki i szybko wrócił do poprzedniej pozycji. 
+Zamknął oczy, lecz głos, który usłyszał kazał mu je otworzyć ponownie. 
 
+\- Dawno się nie widzieliśmy, James - powiedziała dziewczyn, której głos  miał lekko wyczuwalną kpinę.
+\- Niemożliwe... - szepnął.
+Okazało się, że była to ta dziewczyna ze zdjęcia - jego dawna partnerka Tari.
 
--> END
+Po chwili można było usłyszeć rozmowę pełną śmiechów i wspomnień. Dwoje przyjaciół było znów razem. Minęło kilka dni.
+Tari i James przeszukali cały szpital w poszukiwaniu przydatnych rzeczy.
+
+*ZNALEŹLI RADIO -> radio
+*ZNALEŹLI TELEWIZOR -> telewizor
+
+===radio===
+Znaleźli radio i spróbowali je odpalić. Udało się. Natrafili na kanał z wiadomościami. Usłyszeli niski głos mówiący:
+\- Pan Niewidzialny, bardzo niebezpieczny przestępca został zlikwidowany przez znaną nam wszytkim Ariettę - detektywkę specjalizującą się w łapaniu morderców.
+
+===telewizor===
+W końcu znaleźli telewizor i spróbowali go włączyć. Natrafili na kanał z wiadomościami i zaciekawieni zaczęli oglądać.
+\- Znana wszystkim detektywka Arietta złapała i zlikwidowała bossa maffi - Pana Niewidzialnego.
+
+-> END    
